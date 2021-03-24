@@ -1,4 +1,4 @@
-# campus-react
+# Campus React
 # TP1
 Création d’un système d’inscription avec l’utilisation
 des class components
