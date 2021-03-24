@@ -1,13 +1,13 @@
 # campus-react
-#TP1
+# TP1
 Création d’un système d’inscription avec l’utilisation
 des class components
-#TP2
+# TP2
 Evolution du premier TP avec l’utilisation des Hooks
-#TP3
+# TP3
 Evolution du deuxième TP avec l’utilisation de Redux
-#TP4
+# TP4
 création des tests unitaire du troisième TP
-#TP5
+# TP5
 Intégration d’un système d’authentification sur le
 quatrième TP
